@@ -2,6 +2,26 @@
 
 Implementation of a Monte Carlo simulation of the two-dimensional Blume-Capel model using the Metropolis algorithm.
 
+## Results
+
+### Magnetization and Phase Boundary
+
+![Magnetization and phase boundary](figures/diagrama_tricritico.png)
+
+Monte Carlo magnetization map as a function of temperature and crystal field parameter Δ. The critical line obtained from mean-field theory is superimposed for comparison.
+
+### Magnetic Susceptibility
+
+![Magnetic susceptibility](figures/susceptibilidad.png)
+
+Magnetic susceptibility obtained from magnetization fluctuations. Peaks indicate the location of second-order phase transitions.
+
+### Ising Limit Comparison
+
+![Ising comparison](figures/comparación modelos.png)
+
+Comparison between the Blume-Capel model in the limit Δ → −∞ and the two-dimensional Ising model, confirming the expected recovery of Ising behavior.
+
 ## Overview
 
 The Blume-Capel model is an extension of the Ising model in which each lattice site can take three possible spin values:
