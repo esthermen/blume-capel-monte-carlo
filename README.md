@@ -51,6 +51,14 @@ A complete description of the theoretical background, numerical implementation a
 
 Blume_Capel_Report.pdf
 
+## External Data
+
+The comparison with the Ising model uses precomputed results stored in:
+
+data/ising_results.txt
+
+These data were generated using an independent Monte Carlo implementation of the 2D Ising model.
+
 ## Authors
 
 Esther Menéndez Ibáñez
