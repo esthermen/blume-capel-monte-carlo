@@ -18,7 +18,7 @@ Magnetic susceptibility obtained from magnetization fluctuations. Peaks indicate
 
 ### Ising Limit Comparison
 
-![Ising comparison](figures/comparación modelos.png)
+![Ising comparison](figures/comparación_modelos.png)
 
 Comparison between the Blume-Capel model in the limit Δ → −∞ and the two-dimensional Ising model, confirming the expected recovery of Ising behavior.
 
